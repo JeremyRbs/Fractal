@@ -1,6 +1,6 @@
 # Fractal
 
- PYTHON Project : LSI-2 - 2nd year CNAM Licence - Promo 2019
+ PYTHON Project : 2nd year CNAM Licence - Promo 2019
  
  Contributors :
  
